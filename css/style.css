@@ -1,0 +1,20 @@
+/*
+hehe ByZocker#4747 on discord
+*/
+
+:root
+{
+    --header: white;
+    --headerfont: #3e3e3e;
+    --backgrounddark: #222;
+    --textdark: white;
+    --footer: white;
+    --footerfont: #3e3e3e;
+    --footerfonthover: #707070;
+    --backgroundlight: #cdcdcd;
+    --hovertext: #5fde6e;
+}
+body{
+    background-color: var(--backgrounddark);
+    color: var(--textdark);
+}
